@@ -7,7 +7,7 @@ namespace CodeSnippets
         static int MAX_NUM = 26;
         static void Main(string[] args)
         {
-            string str = "piiiyush";
+            string str = "piiiyush"; //only works for small case
             int[] charCount = new int[MAX_NUM];
 
             for(int i=0;i<str.Length;i++)
