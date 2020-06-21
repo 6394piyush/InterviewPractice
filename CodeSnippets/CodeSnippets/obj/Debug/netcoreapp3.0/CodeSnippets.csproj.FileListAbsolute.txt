@@ -1,0 +1,11 @@
+F:\DOTNETLearning\Code_Interview\InterviewCode\CodeSnippets\CodeSnippets\bin\Debug\netcoreapp3.0\CodeSnippets.exe
+F:\DOTNETLearning\Code_Interview\InterviewCode\CodeSnippets\CodeSnippets\bin\Debug\netcoreapp3.0\CodeSnippets.deps.json
+F:\DOTNETLearning\Code_Interview\InterviewCode\CodeSnippets\CodeSnippets\bin\Debug\netcoreapp3.0\CodeSnippets.runtimeconfig.json
+F:\DOTNETLearning\Code_Interview\InterviewCode\CodeSnippets\CodeSnippets\bin\Debug\netcoreapp3.0\CodeSnippets.runtimeconfig.dev.json
+F:\DOTNETLearning\Code_Interview\InterviewCode\CodeSnippets\CodeSnippets\bin\Debug\netcoreapp3.0\CodeSnippets.dll
+F:\DOTNETLearning\Code_Interview\InterviewCode\CodeSnippets\CodeSnippets\bin\Debug\netcoreapp3.0\CodeSnippets.pdb
+F:\DOTNETLearning\Code_Interview\InterviewCode\CodeSnippets\CodeSnippets\obj\Debug\netcoreapp3.0\CodeSnippets.csprojAssemblyReference.cache
+F:\DOTNETLearning\Code_Interview\InterviewCode\CodeSnippets\CodeSnippets\obj\Debug\netcoreapp3.0\CodeSnippets.AssemblyInfoInputs.cache
+F:\DOTNETLearning\Code_Interview\InterviewCode\CodeSnippets\CodeSnippets\obj\Debug\netcoreapp3.0\CodeSnippets.AssemblyInfo.cs
+F:\DOTNETLearning\Code_Interview\InterviewCode\CodeSnippets\CodeSnippets\obj\Debug\netcoreapp3.0\CodeSnippets.dll
+F:\DOTNETLearning\Code_Interview\InterviewCode\CodeSnippets\CodeSnippets\obj\Debug\netcoreapp3.0\CodeSnippets.pdb
